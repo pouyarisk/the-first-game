@@ -1,0 +1,153 @@
+If anyone was wondering what the specific stats of towers or monsters are then you came to the right place
+
+Towers:
+
+Red (Base Tower):
+Cost: 100
+Camo Detection: No
+Lead Popability: No
+
+Upgrades:
+1st Path:
+Long Range Shots: Cost: 100, Gives Red 25% more range
+Extra Range Shots: Cost: 200, Gives Red 25% more range
+Double Damage: Cost: 600, makes Red shots pop 2 layers
+Big Shot: Cost: 2000, Double size of Red's projectiles
+
+2nd Path:
+Piercing Darts: Cost: 150, Adds 1 pierce to Red's projectiles
+Faster Tower: Cost: 300, Red shoots 50% faster
+Triple Shot: Cost 450, Red now shoots 3 projectiles
+Speed 4 Days: Cost: 3500, Red shoots 2 times faster
+
+
+
+Blue (Ninja Tower):
+Cost: 200
+Camo Detection: Yes
+Lead Popability: No
+
+Upgrades:
+1st Path:
+Ninja Discipline: Cost: 150, Extra 10% Range with Extra 25% Throwing Speed
+Sharp Shruks: Cost 275, Extra 3 Pierce
+Double Trouble: Cost 750, Ninja shoots 2 shots at once
+Grandjitsu: Cost: 2750, Ninja shoots 5 shots at once
+
+2nd Path:
+Seeking Shruks: Cost: 150, Shruikens now seek out the next enemy
+Small, but deadly: Cost: 300, Shruikens do 2 damage, but are half size
+Slow, but powerful: Cost 450, Shruikens  do 4 damage, but are fired at half speed
+Bullet Time: Cost 4500, Ability: Ninja shoots at 3 times speed for a few seconds
+
+Yellow (Flamethrower):
+Cost: 300
+Camo Detection: No
+Lead Popability: Yes
+Notes: Base Tower burns Monsters
+
+Upgrades:
+1st Path:
+Ranged Flames: Cost: 100, Flamethrowers range is doubled
+Faster Flames: Cost: 250, Shoots flames 25% faster
+Damaging Fire: Cost: 600, Fire pops 2 layers instead of 1
+Tracking Fire: Cost: 6500, Fire projectiles now seeks out it's next opponent
+
+2nd Path: 
+Long Lasting Fire: Cost: 175, Flames last 50% longer
+Extra Fire: Cost 200, Flamethrower has an extra 2 pierce
+Fire for all: Cost: 800, Flamethrower has an extra 5 pierce
+Forest Fire: Cost 3000, Ability: Shoots 36 projectiles in a ring which set Monsters on fire
+
+Light Teal (Ice Tower):
+Cost: 400
+Camo Detection: No
+Lead Popability: Yes, if upgraded
+Notes: Base Tower slows Monsters down to 75% speed
+
+1st Path:
+Fast Freezing: Cost: 100, Shoots 50% faster
+Ranged Ice: Cost: 100, Has 50% more range
+Lead Destruction: Cost: 600, Does +1 Damage and can pop lead Monsters
+Frozen in Time: Cost: 6500, Shoots twice as fast for ultimate Poppage and Slowage
+
+2nd Path:
+Slow Monsters: Cost: 175, Makes the monster slow
+Damaging Ice: Cost: 200, Now whenever Ice Tower slows Monsters, they also take 1 Damage (Stacks with 3rd upgrade on the left path)
+Slowed For Life: Cost: 800, Now slows the enemy down to 50% speed and whenever they are unslowed they stay 75% speed forever
+The Arctic: Cost: 3000, Ability: Slows all monsters down to 40% speed for a brief time
+
+
+Grey (Explosion Factory):
+Cost: 500
+Camo Detection: Yes
+Lead Popability: Yes
+Notes: Randomly puts down AOE explosions in it's radius. Hit's every type of monster
+
+Path 1: 
+Fast Production: Cost: 300, Increases speed by 25%
+Faster Production: Cost: 550, Increases speed by 35%
+Damage 4 Days: Cost: 1000, Does +1 Damage to every monster it hits
+Ballistic: Cost: 10000, Increase speed by 100%, +1 Damage
+
+Path 2: 
+Big Bombs: Cost: 175, Bombs hit monsters 25% further away
+Extra Range: Cost: 200, 25% larger range
+Slow Explode: Cost: 800, 50% slower explode time which lets bombs stack up
+Smoke Bomb: Cost: 4500, Ability: Confuses all monsters and makes them go backwards for a certain period of time
+
+
+Green (Money Tower):
+Cost: 600
+Camo Detection: No
+Lead Popability: No
+Notes: Doesn't shoot, but produces crates to pickup which give you money
+
+Path 1: 
+Big Stacks: Cost: 545, 50% More crates
+Bigger Stacks: Cost: 900, 50% More crates
+Money Plantation: Cost: 2500, You guessed it, 50% more crates (This adds up to be a lot of crates)
+Enterprise: Cost: 23500, Crates take 5 times longer to spawn, but are worth 10 times more
+
+Path 2: 
+Long-lasting: Cost: 175, Crates last twice as long
+Valued Output: Cost: 800, Crates are worth twice their value
+AutoCollect: Cost: 1500, Crates are automatically picked up and transported into your cash supply
+Fast Money: Cost: 4500, Ability: Instantly gives you 1000 cash
+
+Monsters:
+
+Red: 
+Health: 5
+Speed: 2
+Special Effects: None
+
+Blue: 
+Health: 10
+Speed: 3
+Special Effects: None
+
+Green: 
+Health: 15
+Speed: 4
+Special Effcts: None
+
+Yellow: 
+Health: 20
+Speed: 5
+Special Effects: None
+
+Pink: 
+Health: 25
+Speed: 6
+Special Effects: None
+
+Black: 
+Health: 30
+Speed: 4
+Special Effects: Pops into 2 Pink Monsters
+
+Lead:
+Health: 35
+Speed: 3
+Special Effects: Can only be popped by Flamethrowere and an Ice tower with 3 upgrades to the left
